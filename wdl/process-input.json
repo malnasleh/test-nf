@@ -1,0 +1,5 @@
+{
+    "print_filename.filename": "$.dataset.params.input",
+    "final_workflow_outputs_dir": "$.params.dataset.s3|/data/",
+    "final_call_logs_dir": "$.params.dataset.s3|/logs/"
+}

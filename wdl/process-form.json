@@ -1,0 +1,17 @@
+{
+    "form": {
+      "type": "object",
+      "required": [
+        "input"
+      ],
+      "properties": {
+        "input": {
+          "type": "string",
+          "title": "FASTQ",
+          "file": "**/**",
+          "pathType": "dataset"
+        }
+      }
+    },
+    "ui": {}
+}
