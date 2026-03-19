@@ -1,0 +1,15 @@
+{
+  "id": "nathan-test",
+  "childProcessIds": [],
+  "parentProcessIds": ["custom_dataset"],
+  "name": "Nathan's test pipeline",
+  "desc": "For testing",
+  "executor": "NEXTFLOW",
+  "documentationUrl": "https://github.com/nathanthorpe/test-nf",
+  "code": {
+    "repository": "GITHUBPRIVATE",
+    "script": "main.nf",
+    "uri": "nathanthorpe/test-nf",
+    "version": "main"
+  }
+}
